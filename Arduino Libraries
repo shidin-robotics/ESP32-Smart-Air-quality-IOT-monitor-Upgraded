@@ -1,0 +1,14 @@
+#include <WiFi.h>
+#include <WebServer.h>
+#include <Wire.h>
+#include <math.h>
+#include <Adafruit_GFX.h>
+#include <SPI.h>
+#include <Adafruit_ILI9341.h>
+#include <Adafruit_Sensor.h>
+#include <bsec2.h>
+#include <ThingSpeak.h>
+#include <WiFiClientSecure.h>
+#include <UniversalTelegramBot.h>
+#include <ArduinoJson.h>
+#include <BluetoothSerial.h>
