@@ -1,0 +1,12 @@
+#define PMS_RX_PIN 16
+#define PMS_TX_PIN 17
+#define BUZZER_PIN 25
+#define GREEN_LED_PIN 32
+#define YELLOW_LED_PIN 33
+#define RED_LED_PIN 27
+#define TFT_CS_PIN   5
+#define TFT_DC_PIN   2
+#define TFT_RST_PIN  4
+#define TFT_SCK_PIN  18
+#define TFT_MISO_PIN 19
+#define TFT_MOSI_PIN 23
